@@ -1,0 +1,6 @@
+upperDebug.txt
+此文件夹带日期：高于debugger的事件历史记录
+后缀不为日期名：为当天高于debugger的事件历史记录
+error.txt
+此文件夹带日期：error的事件历史记录
+后缀不为日期名：为当天error事件历史记录

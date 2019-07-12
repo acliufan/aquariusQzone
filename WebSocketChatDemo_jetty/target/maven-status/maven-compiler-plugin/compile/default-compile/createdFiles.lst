@@ -1,0 +1,9 @@
+com\webSocket\version_03_chatRoom\WebSocketTest$1.class
+com\service\TransactionalService.class
+com\webSocket\version_03_chatRoom\RequestMsgBean.class
+com\service\TestService.class
+com\webSocket\version_03_chatRoom\WebSocketTest.class
+com\controller\WebSocketTestAction.class
+com\dao\TestDao.class
+com\bean\Person.class
+com\bean\QPerson.class
