@@ -5,4 +5,4 @@ contact:
 
 we-chat:13772019579 
 
-I look forward to your call and exchanges and study.
+I am looking forward to your call and exchanges and study.
