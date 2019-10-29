@@ -239,7 +239,7 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
-            <version>4.0.27.Final</version>
+            <version>4.1.42.Final</version>
         </dependency>
         <!--webSocket引入包-->
         <!-- https://mvnrepository.com/artifact/javax/javaee-api -->
